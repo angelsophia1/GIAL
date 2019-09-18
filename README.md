@@ -14,4 +14,4 @@ Please have fun!
 
 Unity Version : 2018.3.8f1
 
-https://hamstersophia.itch.io/gial
+itch.io: https://hamstersophia.itch.io/gial
